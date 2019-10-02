@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Program10 {
+public class Program11 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String s = br.readLine();
@@ -20,3 +20,4 @@ public class Program10 {
         }
     }
 }
+
